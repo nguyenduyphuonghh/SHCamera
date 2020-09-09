@@ -1,0 +1,3 @@
+include ':mysohalivestreamsdk'
+include ':app'
+rootProject.name = "SHCamera"
